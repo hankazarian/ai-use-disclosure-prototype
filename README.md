@@ -10,6 +10,7 @@ This proposal outlines a comprehensive framework for enabling content creators t
 
 The proposed system generates AI transparency scores (0–100%) with intuitive color-coded indicators, providing audiences with immediate visual understanding of AI involvement across four key content creation stages: ideation, research, text creation, and visual creation.
 
+Link to live prototype: https://hankazarian.com/ai-disclosure-proposal/
 ---
 
 ## Problem Statement
